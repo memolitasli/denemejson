@@ -1,0 +1,12 @@
+{
+    "marka":[
+    {
+        "isim":"Marlboro",
+        "fiyat":18
+    },
+    {
+        "isim":"maltepe",
+        "fiyat" : 14
+    }
+]
+}
