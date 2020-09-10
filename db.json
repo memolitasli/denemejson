@@ -1,12 +1,25 @@
 {
-    "marka":[
-    {
-        "isim":"Marlboro",
-        "fiyat":18
-    },
-    {
-        "isim":"maltepe",
-        "fiyat" : 14
-    }
-]
+    "grup" :[
+        {
+          "isim":"metallica",
+          "vokal":"james Hetfield",
+          "sarki":"master of puppets"
+        },
+        {
+       "isim":"motorhead",
+       "vokal":"lemmy Kilmister",
+       "sarki":"Ace of Spades"
+        },
+        {
+            "isim":"Black Sabbath",
+            "vokal":"Ozzy Osbourne",
+            "sarki":"War Pigs"
+        },
+        {
+            "isim":"Dio",
+            "vokal":"Ronnie J. Dio",
+            "sarki":"Rainbow in the Dark"
+        }
+
+    ]
 }
