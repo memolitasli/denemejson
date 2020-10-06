@@ -1,25 +1,11 @@
 {
-    "grup" :[
-        {
-          "isim":"metallica",
-          "vokal":"james Hetfield",
-          "sarki":"master of puppets"
-        },
-        {
-       "isim":"motorhead",
-       "vokal":"lemmy Kilmister",
-       "sarki":"Ace of Spades"
-        },
-        {
-            "isim":"Black Sabbath",
-            "vokal":"Ozzy Osbourne",
-            "sarki":"War Pigs"
-        },
-        {
-            "isim":"Dio",
-            "vokal":"Ronnie J. Dio",
-            "sarki":"Rainbow in the Dark"
-        }
+    "tarih_bilgileri" :[
+        "İstanbul 1453 yılında fethedilmiştir",
+       "Gazi Mustafa Kemal Atatürk 1881 yılında doğmuştur",
+        "Tanrının kırbacı lakabını Atilla Avrupaya yaptığı seferler sonucunda almıştır",
+        "Türkler Anadoluya 1071 yılında malazgirt savaşı ile girmiştir",
+        "Memoli 1997 yılında doğmuştur",
+        
 
     ]
 }
